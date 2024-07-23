@@ -1,0 +1,21 @@
+{
+  "name": "arviis.nsfw-bot",
+  "version": "9.9.9",
+  "description": "ArviS - NSFW Bot",
+  "main": "arvis.js",
+  "scripts": {
+    "arviis:dev": "nodemon arvis.js",
+    "start": "node arvis.js"
+  },
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "eris": "^0.17.2",
+    "os": "^0.1.2",
+    "superagent": "^6.1.0"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}

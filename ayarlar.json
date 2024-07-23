@@ -1,0 +1,17 @@
+{
+  "prefix": "a,",
+  "token": "",
+  "owners": ["216222397349625857"],
+
+  "SesKanali1": "990362728734556214",
+  "SesKanali2": "1256737133943849022",
+
+  "BotOynuyor": "With AstroHub",
+  "BotStatus": "online",
+
+  "msg": {
+    "nsfwWarn": "<a:dikkat_arviis:997074866371039322> This channel is NOT a NSFW channel! Please turn on the NSFW setting. \nhttps://media.discordapp.net/attachments/1069639498637525043/1257080608014995526/image.png?ex=66831b0c&is=6681c98c&hm=eee9cb4a819ebca4911cf4da07cb7498770e506c46e426f980a6a9979212a2f1&=&format=webp&quality=lossless&width=1014&height=200",
+    "loading": "<a:yukleniyor_arviis:1058007845364322354> LOADING...",
+    "imageNotLoading": "Click Here"
+  }
+}
