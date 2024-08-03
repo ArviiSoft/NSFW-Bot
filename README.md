@@ -5,6 +5,8 @@
 
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
 https://www.itemsatis.com/discord/nsfw-bot-altyapisi-1741105.html
+
+https://www.itempazar.com/discord-uye-nitro-sunucu/nsfw-bot-altyapisi-96852
 # 
 #
 
